@@ -1,0 +1,25 @@
+.not-found{
+    height: 100vh;
+    display: flex;
+     align-items: center;
+     justify-content: center;
+     /* background: red; */
+}
+.not-found-title{
+    display: flex;
+     align-items: center;
+     justify-content: center;
+     flex-direction: column;
+}
+.not-found-title h2{
+    font-size: 150px;
+    color: red;
+}
+.not-found-title p{
+    font-size: 30px;
+    color: black;
+}
+.not-found-title button{
+    font-size: 30px;
+}
+

@@ -1,0 +1,13 @@
+.services-title{
+    height: 500px;
+    background:url('../../images/others.jpg');
+    background-size:cover;
+    margin-bottom: 40px;
+}
+.text-center h2{
+    font-size: 60px;
+    color: #fff;
+}
+.text-center p{
+    color: #fff;
+}

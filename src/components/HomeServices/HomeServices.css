@@ -1,0 +1,12 @@
+#home-services{
+    padding: 80px 0 80px 0px;
+}
+.social-icons span{
+    margin: 10px;
+}
+
+.card-body .btn{
+    padding: 5px 15px;
+    box-shadow: none !important;
+}
+
