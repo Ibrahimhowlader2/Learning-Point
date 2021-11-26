@@ -2,7 +2,7 @@
 
 ## This is my project link :
 
-Click Here For Live View [Educational Website](https://assignment-8-ibrahim.netlify.app/).
+Click Here For Live View [Educational Website](https://learning-point.netlify.app/).
 
 ## About This Project :
 
