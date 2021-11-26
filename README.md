@@ -7,6 +7,6 @@ Click Here For Live View [Educational Website](https://learning-point.netlify.ap
 ## About This Project :
 
 - Uses React With Html, CSS, JavaScript, Bootstrap.
-- Display Game of Thrones cast and the characters.
-- And Showing All Actors Cost.
+- Display some courses of educational
+- And using react router dom.
 
